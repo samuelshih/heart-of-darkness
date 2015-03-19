@@ -1,7 +1,7 @@
 #slides {
   position: relative;
 }
-#slides .slides-container{
+#slides .slides-container {
   display: none;
 }
 #slides .scrollable {
